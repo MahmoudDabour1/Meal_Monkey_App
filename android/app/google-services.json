@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176035940091",
+    "project_id": "dabour-17512",
+    "storage_bucket": "dabour-17512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176035940091:android:b98654df8fa26bf9c1925e",
+        "android_client_info": {
+          "package_name": "com.example.engamrbakr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176035940091-4721nh6levkqolo4v9ettbbq81thu254.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZtKqmopK3pu46M63c5osn1gxUyhcbV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176035940091-4721nh6levkqolo4v9ettbbq81thu254.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
